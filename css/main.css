@@ -1,0 +1,25 @@
+body
+{
+   max-width: 600px;
+   margin: 0 auto;
+   font-size: 20px;
+   padding: 0 1em;
+}
+
+.dark-theme
+{
+   background-color: #000000;
+   color: #FFFFFF;
+}
+
+.normal-theme
+{
+   background-color: #B8FFF7;
+   color: #C53131;
+}
+
+.light-theme
+{
+   background-color: #FFFFFF;
+   color: #000000;
+}
