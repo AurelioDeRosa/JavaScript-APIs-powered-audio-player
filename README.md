@@ -1,6 +1,6 @@
 # JavaScript APIs-powered Audio Player
 
-This repository contains the demo I've developed as a part of an article written for
+This repository contains the demo I've developed as a part of [an article](http://www.sitepoint.com/building-mobile-javascript-powered-audio-player/) written for
 [SitePoint](http://www.sitepoint.com/). The project shows how to create a simple JavaScript APIs-powered audio player that employs a few JavaScript APIs to improve the experience for people using a mobile device. In particular, the demo uses:
 
 - The [Ambient Light API](http://modernweb.com/2014/05/27/introduction-to-the-ambient-light-api/) to change the theme of the web page based on the environment light level
